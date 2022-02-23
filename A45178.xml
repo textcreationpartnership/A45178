@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The spirituall verses and prose of James Hunt concerning the advancment of Christ his glorious and triumphing church : which by degrees shall flourish over the face of the whole world, which will be to the overthrow of the Divill, and the false church.</title>
+            <author>Hunt, James, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45178</idno>
+            <idno type="STC">Wing H3736</idno>
+            <idno type="STC">ESTC R2040</idno>
+            <idno type="EEBO-CITATION">12306641</idno>
+            <idno type="OCLC">ocm 12306641</idno>
+            <idno type="VID">59286</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59286)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 188:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The spirituall verses and prose of James Hunt concerning the advancment of Christ his glorious and triumphing church : which by degrees shall flourish over the face of the whole world, which will be to the overthrow of the Divill, and the false church.</title>
+                  <author>Hunt, James, 17th cent.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59286:1" rendition="simple:additions"/>
+            <pb facs="tcp:59286:1"/>
+            <p> The Spirituall Verſes and Proſe OF JAMES HUNT:</p>
+            <p>
+               <hi>CONCERNING</hi> THE ADVANCMENT OF Chriſt his glorious and Triumphing Church, Which by degrees ſhall flouriſh over the face of the whole world, which will be to the overthrow of the Divill, and the falſe Church.</p>
+            <p>
+               <hi>Dedicated to the Kings moſt Excellent Majeſtie, and to the moſt Honorable and High Court of PARLIAMENT.</hi>
+            </p>
+            <p>London, Printed for <hi>J. H.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:59286:2"/>
+            <head>The Spirituall Verſes and Proſe OF JAMES HUNT.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Ow Chriſtian reader, the Apoſtle <hi>S. Paul</hi> ſaith plainly, <hi>Col.</hi> 3.16. <hi>Let the word of Chriſt dwell in you richly in all wiſdome, teaching and ad<g ref="char:EOLhyphen"/>moniſhing one another in Pſalmes, and Hymnes, and ſpirituall ſongs, ſinging with grace in your hearts to the Lord.</hi>
+            </p>
+            <p>Wherefore by that grace that God hath given unto me, I have writ ſome part of my mind in a ſpirituall ſong, which will be to the praiſe and glory of God and to the confound<g ref="char:EOLhyphen"/>ing of the divill: For my proſe will cleare and prove my verſes to be ſound and true, for Chriſt Ieſus, who is the perfect God, he ſaith plainly, <hi>Iohn.</hi> 16 <hi>When he the Spirit of truth is come, he will reprove the world of judgment.</hi> Now by that ſpirit of truth which our glorious God hath given unto me, I will plainly and boldly ſay, if I have not there<g ref="char:EOLhyphen"/>by, I ſay by the help and power of God, reproved and quite overthrowne the Biſhops and all their Clergy both in their doctrine, and in their judgment, as concerning true and ſound Religion, I will deſire no mercy, but be con<g ref="char:EOLhyphen"/>tent to be put to death under the judgment of the high Court of Parliament, whom God, I hope, hath gathered together for the tryall of the Spirits: Wherefore I <hi>Iames Hunt,</hi> a Miniſter and Meſſenger of <hi>Ieſus Chriſt,</hi> do humbly beſeech
+<pb n="3" facs="tcp:59286:2"/> you all, for the mercies of God, and the true love that is in <hi>Ieſus Chriſt,</hi> that you will obſerve the Councell of <hi>Saint Paul,</hi> which ſaith, <hi>Quench not tht Spirit, deſpiſe not Prophecy<g ref="char:EOLhyphen"/>ing but prove all things and hold faſt that which is good.</hi> Where<g ref="char:EOLhyphen"/>fore I beſeech, you to read my book thorow with obſervati<g ref="char:EOLhyphen"/>on, which I hope will be to your everlaſting joy and glory.</p>
+            <p>Chriſtian Brethren, it is written, <hi>Reve.</hi> 19. 11. <hi>Behold a White horſe, and he that ſat on him was called faithfull and true, and in righteouſnes he doth judge and make Warre.</hi> I underſtand he that ſits upon the White horſe ſignifieth <hi>Chriſt</hi> and his Miniſters, which are men of Warre, to fight the ſpirituall battle of the Lord; For <hi>he that is joyned to the Lord is one ſpirit.</hi> 1 <hi>Cor.</hi> 6. 17.</p>
+            <l>
+               <hi>Wherefore I</hi> Iames Hunt <hi>to</hi> London <hi>come,</hi>
+            </l>
+            <l>
+               <hi>As Souldiers do by ſound of the Drum,</hi>
+            </l>
+            <l>
+               <hi>To ſee if there be any ſpirituall Souldier in this towne,</hi>
+            </l>
+            <l>
+               <hi>That can be able the plaine Plow-man to confound:</hi>
+            </l>
+            <l>
+               <hi>If there be any ſuch here, or ſhall come hither,</hi>
+            </l>
+            <l>
+               <hi>I pray let him be Captaine to weare the Feather.</hi>
+            </l>
+            <l>
+               <hi>But ſome of the Clergy ſay I am a foole;</hi>
+            </l>
+            <l>
+               <hi>It is becauſe I am not taught in their ſchoole.</hi>
+            </l>
+            <l>
+               <hi>Why</hi> Mus <hi>a Mouſe, and</hi> Pediculus <hi>a Louſe,</hi>
+            </l>
+            <l>
+               <hi>Will not that ſerve in a Country Houſe?</hi>
+            </l>
+            <l>
+               <hi>But Greeke and Latine I muſt you tell,</hi>
+            </l>
+            <l>
+               <hi>I pray will you my words marke well;</hi>
+            </l>
+            <l>
+               <hi>Your kingdome will be quite throwne downe,</hi>
+            </l>
+            <l>
+               <hi>By the cleare voice of the trumpet ſound.</hi>
+            </l>
+            <l>
+               <hi>For you have ſo many falſe doctrines rais'd,</hi>
+            </l>
+            <l>
+               <hi>By your Latine tongue and Greeke phraſe,</hi>
+            </l>
+            <l>
+               <hi>That now I truſt in our glorious God,</hi>
+            </l>
+            <l>
+               <hi>The plaine Engliſh tongue will winne the praiſe.</hi>
+            </l>
+            <l>
+               <hi>For there are very few Myſteries in the Goſpel that be ſo ſtrong,</hi>
+            </l>
+            <pb n="4" facs="tcp:59286:3"/>
+            <l> 
+               <hi>But they may be unfolded by the plaine Engliſh tongue.</hi>
+            </l>
+            <l>
+               <hi>But Greeke and Latine have you not heard of the great whore,</hi>
+            </l>
+            <l>
+               <hi>That ſeekes my life for to devoure?</hi>
+            </l>
+            <l>
+               <hi>Her name is</hi> Myſtery Babilon <hi>the great,</hi>
+            </l>
+            <l>
+               <hi>For Greeke and Latine is her ſeat.</hi>
+            </l>
+            <l>
+               <hi>By which ſhe hath advanc'd her ſelfe to great honour, and renown,</hi>
+            </l>
+            <l>
+               <hi>But the ſword of truth will cut her downe:</hi>
+            </l>
+            <l>
+               <hi>For I underſtand by Gods great power,</hi>
+            </l>
+            <l>
+               <hi>She ſhall be confounded in one houre.</hi>
+            </l>
+            <l>
+               <hi>Wherefore Greek and Latine if you be offended at my writing or by my word,</hi>
+            </l>
+            <l>
+               <hi>I pray let you and I try it out with the ſpirituall ſword.</hi>
+            </l>
+            <l>
+               <hi>Therefore looke to your ſelfe that you do not prove a Cow,</hi>
+            </l>
+            <l>
+               <hi>And ſo it may be ſaid as it was to your Captaine</hi> William:</l>
+            <l>
+               <hi>I pray thee who is moſt foole now?</hi>
+            </l>
+            <l>
+               <hi>For the deepeſt ſcholler in</hi> Cambridge <hi>Schoole,</hi>
+            </l>
+            <l>
+               <hi>May be taught wiſdome by Chriſts foole.</hi>
+            </l>
+            <l>
+               <hi>But Greeke and Latine you ſay that I do climbe too high,</hi>
+            </l>
+            <l>
+               <hi>Your</hi> Pulpit <hi>I muſt not come nigh:</hi>
+            </l>
+            <l>
+               <hi>But I ſhall prove your doctrine is neither cleare nor ſound,</hi>
+            </l>
+            <l>
+               <hi>Therefore I pray let me get up, and do you come downe.</hi>
+            </l>
+            <l>
+               <hi>Now Greeke and Latine which in worldly wiſdome do excell,</hi>
+            </l>
+            <l>
+               <hi>What can you ſay do I not follow my text well?</hi>
+            </l>
+            <l>
+               <hi>For I praiſe God I have wounded the Whore upon the head,</hi>
+            </l>
+            <l>
+               <hi>That ſhe will bleed till ſhe be dead:</hi>
+            </l>
+            <l>
+               <hi>For all the Doctors in</hi> Rome <hi>and</hi> Spaine,</l>
+            <l>
+               <hi>Cannot heale her up againe.</hi>
+            </l>
+            <l>
+               <hi>For the Spirit of God will burne her downe,</hi>
+            </l>
+            <l>
+               <hi>And lay her Levell with the ground:</hi>
+            </l>
+            <l>
+               <hi>I meane by the powerfull preaching of Gods word.</hi>
+            </l>
+            <l>
+               <hi>Which is the powerfull and fiery ſword.</hi>
+            </l>
+            <l>
+               <hi>Againe, Greeke and Latine, your halter will be fited to your head,</hi>
+            </l>
+            <l>
+               <hi>For you will be hanged till you be dead.</hi>
+            </l>
+            <pb n="5" facs="tcp:59286:3"/>
+            <l> 
+               <hi>For I ſhall prove to you in briefe,</hi>
+            </l>
+            <l>
+               <hi>She is a murtherer and a thiefe;</hi>
+            </l>
+            <l>
+               <hi>And thus I end my ſpirituall ſong,</hi>
+            </l>
+            <l>
+               <hi>Hopeing I have done no man wrong.</hi>
+            </l>
+            <l>
+               <hi>For by ſpeaking that which is juſt and true,</hi>
+            </l>
+            <l>
+               <hi>I ſhall give the Biſhops Clergie their full due.</hi>
+            </l>
+            <p>For by the helpe and power of God I will boldly ſay with <hi>S. Paul</hi> 1 <hi>Cor.</hi> 2. 12. <hi>Now we have not received the ſpirit of the world but the ſpirit which is of God that we might know the things that are freely given to us of God:</hi> Which things we ſpeake not in the words which mans wiſdome teacheth, but that which the Holy Ghoſt teacheth, comparing ſpirituall things with ſpirituall, that is comparing ſpirituall light with ſpirituall light, and ſpirituall darknes awith ſpirituall darknes: For all falſe doctrine with falſe worſhip is diſcovered and over<g ref="char:EOLhyphen"/>throwne by the power and glory of the light which is revea<g ref="char:EOLhyphen"/>led in the Goſpell of Chriſt: Which things we ſpeake not in the words which mans wiſdome teacheth (marke this point I beſeech you) for the Apoſtle ſaith plainly, not in the words that mans wiſdome teacheth, I underſtand, an natu<g ref="char:EOLhyphen"/>rall man that hath but the light of nature may be taught the Latine and Greeke tongue by his tutors inſtructions; but the Apoſtle ſaith in the 14 verſe, <hi>The naturall man receiveth not the things of the ſpirit of God, neither can he know them for they are fooliſhneſſe unto him:</hi> And I have proved it ſo to be for I have bin this ſeven yeare among the Clergy in this City, and and in the Country, to prove that by the coming of <hi>Chriſt</hi> in the fleſh, and his ſuffering one the Croſſe, and the power of his reſurection, he hath ranſomed his people quite off from the old Law and Teſtament which is the bondage of death and corruption; But unto this day I can find but one man among them all that will beleeve the plaine evident truth; therefore
+<pb n="6" facs="tcp:59286:4"/> I ſhall prove their doctrine is pure in ſhew, but little in ſub<g ref="char:EOLhyphen"/>ſtance; For God doth not tye himſelfe to the Art of ſchol<g ref="char:EOLhyphen"/>lerſhip, which the Clergy have bin taught in the Univerſity, for he ſaith expreſly by the divine power of his Word, 1 <hi>Cor.</hi> 1. <hi>God chooſeth the fooliſh things of this world to confound the wiſe, and God hath choſen the weake things of the world to con<g ref="char:EOLhyphen"/>found the things that are mighty.</hi> Wherefore I ſay plainly God hath raiſed me up to ſhew his power in weaknes to confound the Biſhops and all their Clergy both in their doctrine and their judgment, as concerning true and ſound Religion. It is written, in <hi>Reve.</hi> 20.8. concerning <hi>Gog</hi> and <hi>Magog.</hi> I un<g ref="char:EOLhyphen"/>derſtand this <hi>Gog</hi> and <hi>Magog</hi> ſignifieth the divill, and all his carnall miniſters, which are alwaies raiſing up warr and bat<g ref="char:EOLhyphen"/>tle againſt Chriſt, and his elect children; it is ſaid in the 9. verſe, <hi>They Went upon the breadth of the earth, and camped the Saints about;</hi> I underſtand and can prove the Pope and all his Clergy, and the Biſhops here in <hi>England</hi> and all their Clergy, upon both ſides they have blinded and deceived all thoſe people that are as yet held under their power. Again for the <hi>Turke,</hi> the divill hath his carnall miniſters amongſt them, whereby he hath deceived all thoſe that belong to his King<g ref="char:EOLhyphen"/>dome. Againe, for the Heathens the divill hath his heathen Philoſophers, wherby he hath deceived all thoſe that belong to his dommion. Thus the divill and his carnall miniſters have ſpread themſelves over the whole world, but it is ſaid fire came down from God, out of heaven and devoured them, I underſtand, and ſhall prove the fire that commeth downe from God out of heaven, ſignifieth the divine power of the word of God in the Goſpel of Chriſt, which ſhall ſhine ſo cleare and powerfully, that it will burne and conſume all falſe doctrine which belongeth to the divill. For <hi>Iohn Baptiſt</hi> was a burning and a flaming light: Againe it is ſaid of our
+<pb n="7" facs="tcp:59286:4"/> glorious God <hi>Heb.</hi> 1 <hi>Who maketh his miniſters a flaming fire.</hi> For as a temporall fire will burne temporall buildings down to the ground, even ſo the Word of God in the Goſpell will bee a ſpirituall fire, to burne down all falſe doctrine and falſe worſhip by degrees from the face of the whole world, and Chriſt and his glorious Church ſhall flouriſh. Wherefore I ſay with <hi>S. Paul,</hi> 1 <hi>Cor.</hi> 3. 12. If any man ſhall build on this foundation, I mean upon the bodily Temple of <hi>Chriſt,</hi> which is the glorious Church, if he ſhall build gould, ſilver, precious ſtones, every mans worke ſhall be made manifeſt, for the day declare it: that is, the light of Gods word ſhall prove his doctrine whether it be ſound or falſe, if any mans worke abide, he ſhall re<g ref="char:EOLhyphen"/>ceive a reward, that is a reward of eternall glory, but if any mans worke ſhall be burnt he ſhall ſuffer loſſe, but he himſelfe ſhall be ſaved; ſo as by fire, I underſtand, if any man have gathered to him<g ref="char:EOLhyphen"/>ſelfe any doctrine which is contrary to the word and will of God, he muſt count that labour to bee as loſt, but when hee ſhall bee re<g ref="char:EOLhyphen"/>conciled to <hi>Chriſt</hi> and to the obedience of his Word, hee ſhall bee ſaved by the divine power thereof, which ſignifieth the Ho<g ref="char:EOLhyphen"/>ly Ghoſt and fire; Now I ſay plainely, if there bee any Divine, or any other man, that can finde any one place of Scripture in the new Teſta<g ref="char:EOLhyphen"/>ment, for to prove the miniſtration of the old Teſtament, is to be joyned to the glorious Church of Chriſt, which is his body, if I cannot finde 3 other plaine truths to burne up his judgement, I will be content to be burned under the judgment of the high Court of Parliament, whom God I hope hath ga<g ref="char:EOLhyphen"/>thered together for the tryall of the ſpirits; wherefore we receive a Kingdome that cannot be moved, that is ſuch a Ieſus, and ſuch a Goſpell, as ſhall abide and remaine for ever: let us have grace to ſerve God with reverence and fear, <hi>For our God is a conſuming fire, Heb.</hi> 12. Now I will ſhew<g ref="char:punc">▪</g> you how God is a conſuming fire two wayes: Firſt, he is the fire of love, to burn and conſume all falſe doctrine and falſe worſhip out of the hearts and minds of the people, as for to cauſe them to hate and forſake it. <hi>For Chriſt ſo loved his Church, and gave himſelfe for it, that he might preſent it to himſelfe a glorious Church, not having ſpot or wrinckle: Epheſ.</hi> 5. This place of Scripture doth ſignifie that Chriſt would have his people to be ſo chaſt unto himſelfe and to his Goſpell, that it ſhould be free from all falſe doctrine, and falſe worſhip which belong<g ref="char:EOLhyphen"/>eth to the divell: <hi>For God is love, and he that dwelleth in love, dwelleth in</hi>
+               <pb n="8" facs="tcp:59286:5"/> 
+               <hi>God, and God in him:</hi> herein is our love made perfect, that wee may have bouldnes in the day of judgment, becauſe as he is, ſo are] we in this world and ſo (I praiſe God) am I in this world, for the ſpirit of God drawes but one way, that is to Chriſt, and to the obedience of his glorious Goſpel; But on the other ſide, God will be found to be the fire of Wrath to deſtroy all thoſe carnall miniſters or any other falſe powers, what<g ref="char:EOLhyphen"/>ſoever it be, with everlaſting plagues and torments of hell fire, that ſhall wilfully fight againſt Chriſt, and againſt the divine power of his word, if they do not repent, and yeeld obedience unto it, as I prove plainly in 2. <hi>Theſ.</hi> 1. 7. <hi>When the Lord Ieſus ſhall be revealed from heaven with his mighty Angels, in flaming fire, taking vengeance on them that know not God; and obey not the glorious Goſpell of the Lord Ieſus Christ, who ſhall be puniſhed with everlaſting deſtruction, from the preſence of the Lord and the glory of his power.</hi> Thus I have ſhewed you in breife how our God is a conſuming fire two waies.</p>
+            <l>
+               <hi>For God hath commanded me to ſing a joyfull and a mournfull ſong,</hi>
+            </l>
+            <l>
+               <hi>To ſhew and prove by the divine power of his word his mercies and his judgments they are both exceeding ſtrong.</hi>
+            </l>
+            <l>
+               <hi>His mercies towards all thoſe that ſhall love and him obey,</hi>
+            </l>
+            <l>
+               <hi>But his fiery wrath &amp; judgments towards thoſe that ſhall refuſe and ſtill ſay nay.</hi>
+            </l>
+            <p>It is written <hi>Eph.</hi> 5. 13. <hi>All things that are reproved are made manifeſt by the light.</hi> Now by that glorious light God hath given me, I will ſhew you in breife, what abominable hipocrites the Biſhops and all their Clergy are in the ſight of our glorious God, for they are alwaies teaching and preaching that the people may love God, and obey his commandements, but I ſhall prove that they are the men that are enemies againſt God, and will not obey his Comman<g ref="char:EOLhyphen"/>dements, for the firſt point I ſhall prove, that all thoſe divines that do deny the divine power of the word of God, they are enemies againſt God, now the Biſhops and their Clergy ſay, that there is no perfection for the people ſo long as they are here in this world, but I ſhall prove, that Chriſt doth pre<g ref="char:EOLhyphen"/>ſent his whole Church perfect before God the Father; <hi>For by one offering he hath perfected for ever them that are ſanctefied, Heb.</hi> 10. 14. But ſome people may ſay, how are we ſanctified? My anſwer is, through beliefe and obedi<g ref="char:EOLhyphen"/>ence to the truth; for Chriſt ſaith plainly, <hi>Iohn</hi> 17. <hi>Sanctefy them through thy truth:</hi> Thy word is truth, Chriſt is the word, and the word is Chriſt, which is revealed in his glorious Goſpel. Again, I can prove that Chriſt hath a trium<g ref="char:EOLhyphen"/>phing Church here upon earth, but that the Biſhops and their Clergy utterly deny; But if I aske any of them if they beleeve that the Goſpel of Chriſt, was preached by Chriſt and his Apoſtles here on earth, they will anſwer yea, then I anſwer to them again, as in 2 <hi>Cor.</hi> 2. 14. <hi>Now thanks be to God who al<g ref="char:EOLhyphen"/>waies</hi>
+               <pb n="9" facs="tcp:59286:5"/> 
+               <hi>cauſeth us to triumph in Chriſt Ieſus;</hi> for Mercy, Love, and Charity, rejoyceth and triumpheth againſt judgment; for <hi>S. Iames</hi> ſaith plainly, <hi>He ſhall have judgment without mercy which ſheweth no mercy, and mercy rejoiceth againſt judgement.</hi> But what judgment? I ſay not againſt the righteous judgment of God, but againſt rhe divill and his falſe and deceivable judgment; thus I have proved in briefe, that God hath a triumphant Church here upon earth. Againe, I can prove that all thoſe people that are and ſhall be ſanctified, by the divine power of the word of God, they are thereby made both God and man, but that the Biſhops and all their Clergy utterly deny, but if I aske any of them if Chriſt be not God and man, they will anſwer yea, then my anſwer is 1 <hi>Iohn</hi> 4. 17. as he is ſo are we in this world, <hi>For know you not how that Chriſt is in you except ye be reprobates,</hi> 2 <hi>Cor.</hi> 18. 5. again 1 <hi>Cor.</hi> 6. 19. <hi>What know you not that your body is the Temple of the Holyghoſt which is in you,</hi> again <hi>Eph.</hi> 4. 4. <hi>There is one body and one ſpirit, one God and Father of all, who is above all, and through all, and in you all;</hi> Now if God the Father, and God the Sonne, and God the Holy Ghoſt, be in his people by the divine power of their word, I hope there is no man can prove me a lyer, becauſe I ſay Chriſt and his Church is God and man, for as a temporall tree hath a aboundance of boughs and bran<g ref="char:EOLhyphen"/>chès, and all make but one tree, ſo on the other ſide, all thoſe people that ſhall be reconciled to Chriſt and to the obedience of his word, they ſhall be joyned to his glorious body, and all make but one compleat body though they ſhall be infinite in number, for the Apoſtle ſaith plainly, <hi>Col.</hi> 2. <hi>Ye are compleat in him who is the head of the Principalities and powers:</hi> Again, as a temporall tree all the boughs and branches have their life and nouriſhment, from the roote and ſtock, ſo on the other ſide, all the children of God have their life and nour<g ref="char:EOLhyphen"/>iſhment from Chriſt, and the divine power of his word, which is revealed in his Goſpel. Again, I can prove that all thoſe people, that are and ſhall be ſanctified by the divine power of the Word of God, they are thereby made Kings, Prieſts, and Prophets, to God, but the Biſhops and their Clergy ſay, there ſhall be no more Prophets, but I have proved and ſhall prove, that that they themſelves are all falſe Prophets, which oppoſe themſelves againſt the plaine truth of God. It is written, <hi>Reve.</hi> 1, <hi>By the blood of Chriſt we are made Kings and Prieſts unto God the Father;</hi> This point of Scripture doth plainly prove that it is not in a Biſhops power to make a man a Prieſt, for the ſpirit of God proves plainly, it is by the vertue and divine power of the bloud of Chriſt; Again, 1 <hi>Pet.</hi> 2. <hi>Ye are a royall Prieſthood to ſhew forth the praiſes of him, who hath called you out of darknes into his marvilous light;</hi> But how ſhall the people ſhew and ſet forth thoſe Riches, and Honour, and Glory, that belongeth to Chriſt and his Church, but by declaring of his Word, which
+<pb n="10" facs="tcp:59286:6"/> is revealed in his Goſpel, wherefore I praiſe God, I plainly underſtand, becauſe the Biſhops and their Clergy will ſuffer none but themſelves to be teachers in the Churches, but now I make no doubt but God will have his power knowne, that he will allow and maintaine, that al his people ſhall be preach<g ref="char:EOLhyphen"/>ers, according to that rule which the Apoſtle ſets forth, 1 <hi>Cor.</hi> 14. 29. <hi>Let the Prophets ſpeake two or three, and let the other judge, for yee may all Prophecy one by one, that all may learne and all may be comforted:</hi> For to Prophecy is to open and unfold the Myſteries and Parables in the new Teſtament, to the true meaning and ſignification; againe he ſaith in the 37. verſe, <hi>If any man thinke himſelfe to be a Prophet, or ſpirituall, let him acknowledge that theſe things that I write unto you, are the Commandements of the Lord.</hi> Marke I be<g ref="char:EOLhyphen"/>ſeech you the ſaying of the Apoſtle, firſt he exhorts the people ſaying, When the Church are come together they all may Prophecy one by one, that is in an orderly and decent way, for theſe things that I write are the Com<g ref="char:EOLhyphen"/>mandements of the Lord: Hereby I plainly underſtand and prove, that God hath commanded that every man ſhould have free liberty to exerciſe his gift, according to that meaſure of grace which God hath given him, now becauſe I have deſired to declare my mind to the people in Churches, to the praiſe and glory of God, as he hath commanded me to do, by the divine power of his ſpirit above, which is agreeable to his word here below, for this cauſe I have bin ten times caſt into priſon. Againe one of the Church-Wardens a Schoole-Maſter, which by his Greeke and Latine tongues hath advanced himſelfe to a great deale of Worldly wealth, he commanded two of his Schollers to hang me in the Church, for they and he flew upon me, and put a cord about my necke, and had almoſt mur thered me in the Church. Now I made my complaint to a Magiſtrate, but his anſwer was that I had no authority to ſpeake in the Church: Indeed I have no authority from the Biſhops, but I hope all thoſe that ſhall read my booke or here it read, may plainly underſtand that I have authority from a glorious God, whoſe power and authority will be found to be greater then the Biſhops; wherefore I now appeale to the moſt Honorable High Court of Parliament, hopeing to find mercy and juſtice at your hands, for I have already proved the Biſhops and all their Clergy to be theeves and robbers, and now I ſhall prove them againe to be murtherers in a ſpirituall way; for the Apoſtle ſaith plainly, 2 <hi>Cor.</hi> 3. <hi>the Letter killeth:</hi> I underſtand and ſhall prove, that the Letter that killeth, ſignifieth the Divill and the old Law, for the old Law is the ſpirit of bondage and ſo is the Divill, for the Apoſtle ſaith plainly, and ſo ſay I, <hi>Rom.</hi> 7. 6. <hi>Now we are delivered from the Law, that being dead wherein we were held as held under the chaines <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd bondage of Sathan, that we ſhould ſerve in newnes of ſpirit and not in the old<g ref="char:EOLhyphen"/>neſſe</hi>
+               <pb n="11" facs="tcp:59286:6"/> 
+               <hi>of the Letter.</hi> I ſay, in the newneſſe of the Goſpel, not in the oldneſſe of the Law: but the Biſhops and al their Clergy teach the people, ſaying, the old Law is the rule of obedience, but I ſhal plainly prove, the more they bring the people under the obedience of the old Law, the more they bring them under the bondage of the divell; for S. <hi>Pauls</hi> zeale was to the old Law when he was a perſecutor of the Church of Chriſt, and then I hope you wil al ſay with me, in ſo doing he was an enemy to God, and a friend unto the divel; for hee ſaith plainly, <hi>Phil.</hi> 3. <hi>Concerning zeale perſecuting the Church, touching the righteouſneſſe that is in the Law blameleſſe.</hi>
+            </p>
+            <p>Thus I have proved to you in brief, that S. <hi>Pauls</hi> zeal was to the old Law when he was a perſecutor of Chriſt. It is written <hi>Heb.</hi> 2. 14. <hi>Foraſmuch as the children were made partakers of fleſh and bloud, Chriſt himſelfe took part of the ſame, that through death he might deſtroy him that had the power of death, that is, the divell, and ſo deliver all thoſe who through feare of death were all their life time ſubject to bondage.</hi> I have already proved, that the old Law is the ſpirit of bondage, and ſo is the divell, which Chriſt hath redeemed all thoſe people from that will be reconciled unto him, and to the obedience of his Word. Thus I have plainly proved the Biſhops and all their Clergy to be murderers in a ſpirituall way. Againe, I have proved them all to be theeves and robbers, for by their falſe doctrine and falſe power they rob the Church of Chriſt of thoſe riches, honour and glory which belongeth unto it. Againe I have proved them all to be abominable hypocrites, which alwayes are teaching and preaching that the people muſt love God and obey his commandements, and yet themſelves are enemies againſt God, and will not obey his comman<g ref="char:EOLhyphen"/>dements, for they will not ſuffer thoſe things to be done in the Churches which God hath commanded by the divine power of his Word, and the plain truth is, the Magiſtrates and Church-Wardens doe yet maintaine and uphold them in their abominable wickedneſſe. I pray God give them all grace to be reconciled to be reconciled to Chriſt and the obedience of his Word, which if they ſhall wilfully refuſe to do, they will be ſure to draw downe the fiery wrath of God upon their own ſoules. Wherefore I hope if the Magiſtrates and Church-Wardens ſhall underſtand by the powerfull Word of Gods com<g ref="char:EOLhyphen"/>mand, that God hath raiſed me up to be a true and ſound Preacher of hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Word, I hope you will all have that wiſdome to lay down your perſecutin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſword. Againe I underſtand, the cauſe why the Biſhops, all their Clergy an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doctrine is ſo falſe and exceeding poore, is becauſe they are climbers, and come not in by the doore.</p>
+            <p>It is written <hi>Acts</hi> 19. <hi>A certaine man named Demetrius a Silver-Smith, which made Shrines for Diana, brought no ſmall gaine to the craftſmen whom he</hi>
+               <pb n="12" facs="tcp:59286:7"/> 
+               <hi>called together with the workmen of like occupation, and ſaid, Sirs, you know that by this craft we have our wealth.</hi> This place of Scripture gives a plain and perfect reſemblance concerning the Biſhops and all their Clergy, who by the art and craft of ſchollerſhip which they have learned in the Vniverſity, have gathered to themſelves ſuch abundance of worldly wealth and earthly magni<g ref="char:EOLhyphen"/>ficence, now they begin to call and gather themſelves together, ſaying, if wee ſhal ſuffer the plain Engliſh tongue to be Preachers, that wilbe a means wher<g ref="char:EOLhyphen"/>by our art of ſchollerſhip wilbe little ſet by, or come to nothing: and the plain truth is, I have already proved, and ſhall prove again in briefe, their doctrine wilbe found as juſt nothing, for the Apoſtle ſaith plainly, ſo ſay I, 2 <hi>Cor.</hi> 5. 11. <hi>If any man be in Chtiſt, he is a new creature,</hi> and to be a new creature is to be reconciled to Chriſt and to the obedience of his Goſpel, <hi>Old things are paſt away, behold all things are become new.</hi> The old things that are paſt away ſig<g ref="char:EOLhyphen"/>nifie the miniſtration of the old Teſtament, which Chriſt hath redeemed us from. Now we know in all the Churches in <hi>England</hi> which have been for a long time held under the power and government of the Biſhops and their Clergy. Firſt they read a leſſon in the old Teſtament, and another in the New, and when they are up in the Pulpit, they joyn in their doctrine the miniſtrati<g ref="char:EOLhyphen"/>on of the old Teſtament and the New together, and in ſo doing, they have blinded and deceived all thoſe people that are as yet held under their power. Thus I have proved in brief their doctrine is as juſt nothing. Wherefore now I make no doubt but that Prophecie which is written in <hi>Rev.</hi> 18. wilbe firſt fulfilled in the Biſhops and all their Clergy here in <hi>England,</hi> which ſaith, in one houre ſo great riches are come to nothing; ſo I hope all thoſe that ſhall read my book, or heare it read ſo much as may be read in one houre, may plain<g ref="char:EOLhyphen"/>ly underſtand, that I have by the help and power of God ſtripped the Biſhops and all their Clergy quite naked, even as naked as a new-ſhorne ſheepe that hath nothing to cover her nakedneſſe; but they ſcorne to learn of me whom God hath raiſed up to ſhew them how they might be cloathed with Chriſt his glorious robe of righteouſneſſe, that the ſhame of their nakedneſſe might not appeare. Wherefore now I truſt in God that ſaying wilbe brought to paſſe which is written in the eleventh Verſe, no man buyeth their merchan<g ref="char:EOLhyphen"/>dize any more, for all people by degrees ſhall ſee and underſtand, that their do<g ref="char:EOLhyphen"/>ctrine is ſo full of hereſie and hypocriſie, which is ſo hatefull in the ſight of our glorious God, that no man that loves God will buy of their deceiveable doctrine any more. Now I come to my text againe. <hi>Behold a white horſe, and he that ſate on him was called faithfull and true, and in righteouſneſſe he doth judge and make warre.</hi> I ſay once againe, he that ſitteth upon the white horſe ſignifieth Chriſt and his Miniſters, which are men of war to fight the ſpiritu<g ref="char:EOLhyphen"/>all
+<pb n="13" facs="tcp:59286:7"/> battell of the Lord. It is ſaid in the 14. Verſe, the armies that followed him, I ſay, that ſhall follow after Chriſt and his Miniſters, it is ſaid they were up<g ref="char:EOLhyphen"/>on white horſes: we all know in a temporall warre the horſemen are very great in force and power, ſo in like manner all thoſe people that ſhall follow Chriſt and his Miniſters, their force and power will be exceeding great, that we need not feare nor doubt but that we ſhall get the victory; for the glori<g ref="char:EOLhyphen"/>ous unity, Father Son and Holy Ghoſt will helpe us to fight the battell. Now by the help of God I will ſhew you in brief what are the ſpirituall weapons that the ſouldiers of Chriſt muſt take up to fight againſt all falſe doctrine and falſe power that belongeth to the divel. It is written in <hi>Eph.</hi> 6. <hi>Stand faſt, having your loynes girt about with truth: for the Law was given by Moſes, but grace and truth came by Ieſus Chriſt. Ioh.</hi> 1. Wherefore if any Divine ſhal tel you that the old Law is to be joyned to the glorious body of Chriſt, you may anſwer him plainly, he ſpeaks not the truth. Again, put on the breſt-plate of righteouſnes, not the righteouſnes which is of the Law, which S. <hi>Paul</hi> cal<g ref="char:EOLhyphen"/>leth his own righteouſnes. For if righteouſnes come by the Law, Chriſt died in vain. <hi>Gal.</hi> 2.21. <hi>For Chriſt is the end of the Law for righteouſneſſe to every one that believeth, Rom.</hi> 10.4. <hi>God hath made him to be ſin for us which knew no ſin, that we ſhould be made the righteouſnſſe of God in him,</hi> 2 <hi>Cor.</hi> 5.21. Thus I have proved in briefe, the breſt-plate of righteouſneſſe ſignifieth Chriſt and his Word, which is revealed in his Goſpel. Againe, <hi>Having your feet ſhod with the preparation of the Goſpell of peace.</hi> Chriſt ſaith, In him we ſhall find peace, that is, al thoſe that wilbe reconciled to Chriſt and the obedience of his Word, Chriſt wil ſpeak peace to their ſoules, <hi>For all the promiſes of God are in him yea and Amen,</hi> to the praiſe and glory of his grace. For Chriſt who is the perfect God, he ſaith plainly, <hi>Ioh.</hi> 5.24. <hi>Verily verily I ſay unto you, hee that heareth my Word, and beleeveth on him that ſent me, hath everlaſting life, and ſhall not come into condemnation, but is paſſed from death to life,</hi> that is, from the death and bondage of ſin and Satan, by the vertue and divine power of the Word of God in the doctrine of the new Teſtament, which is the life of glory and grace. Againe, <hi>take the ſhield of faith whereby ye ſhalbe able to quench all the fiery darts of the wicked.</hi> It is written <hi>Gal.</hi> 3.11. <hi>The juſt ſhall live by faith,</hi> and the Law is not of faith; I ſay, not of the lively and juſti<g ref="char:EOLhyphen"/>fying faith, for S. <hi>Paul</hi> ſaith plainly and ſo ſay I, <hi>Gal.</hi> 5.16. <hi>By the works of the Law ſhall no fleſh be juſtified,</hi> for Chriſt was delivered for our offences, and was raiſed againe for our juſtification. Therefore being juſtified by faith we have peace with God through Jeſus Chriſt our Lord, which is by the di<g ref="char:EOLhyphen"/>vine power of his Word, which ſignifieth the ſhield of faith. Againe, <hi>take the helmet of ſalvation;</hi> for now I praiſe God, I plainly underſtand that ſay<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:59286:8"/> wil be brought to paſſe that is written <hi>Luke</hi> 3. <hi>All fleſh ſhall ſee the ſal<g ref="char:EOLhyphen"/>vation of our God,</hi> for now a glorious God wil ſhew and ſet forth by the di<g ref="char:EOLhyphen"/>vine power of his Word Chriſt and the true Church from the divel and the falſe Church, that al people by degrees ſhal diſcerne the one from the other with the eyes of their underſtanding, as plainly as they may diſcerne the Sun from the Moone with their bodily eyes: ſo all people ſhalbe forced to ſee the ſalvation of our God whether they wil or no.</p>
+            <p>For God by the divine power of his word, will open the eyes of the people ſo cleare, that they ſhall plainly ſee and underſtand, that there is no ſalvation to be attained but by Chriſt, and by the divine power of his word, which is the helmet of our ſalvation; ſo all thoſe people that will be reconciled unto it, they ſhall ſee it to their everlaſting joy and glory. But on the other ſide, all thoſe people that ſhall wilfully fight againſt it, they ſhall ſee it to their eter<g ref="char:EOLhyphen"/>nall death and damnation, if they do not repent and yeeld obedience unto it. Again, take the ſword of the ſpirit which is the word of God, the ſword I underſtand and prove, that it ſignifieth Chriſt and his word, for in the begin<g ref="char:EOLhyphen"/>ning was the word, and the word was with God, and the word was God, Chriſt is the word, and Chriſt was with God, and Chriſt is God, for the word of God is quick and powerfull, and ſharper then any two edged ſword, <hi>Heb.</hi> 4. Firſt it is quick in apprehention, for to cut and devide betwixt the Law and the Goſpel. Secondly, it is powerfull to draw the people from the bondage of ſinne and corruption, into the glorious liberty of the children of God. Thus I have ſhewed you in briefe what are the Weapons that the ſoul<g ref="char:EOLhyphen"/>diers of Chriſt muſt take up to fight againſt al falſe doctrine, and falſe power that belongeth to the divil and his Kingdom of darknes; But if the trumpet give an uncertaine ſound who ſhal prepare himſelfe to the battel, wherefore I praiſe God, I have proved the Biſhops and al their Clergy to be falſe prea<g ref="char:EOLhyphen"/>chers which give a falſe and contrary ſound; for they are miniſters of the Let<g ref="char:EOLhyphen"/>ter, which are inſtruments of the devil for in Gods ſight they are no better, For the more powerfully vpon that inſtrument they do ſound, the more they help the divil beare up his Crowne, I have proved the letter ſignifieth the old Law, and the Apoſtle ſaith plainly, and ſo ſay I, 1 <hi>Cor.</hi> 15. <hi>The ſtrength of ſinne is the Law,</hi> and the devil and al his carnal miniſters they are yet the ſtrengh of ſinne, for by that authority that is given unto them they keep the people under unbeleife, for I ſay once again Chriſt is the end of the Law, to every one that beleeveth, wherefore I <hi>Iames Hunt</hi> humbly beſeech al good Chriſtian people</p>
+            <l>In the city and in countrey round</l>
+            <l>For to obſerve the trumpet ſound,</l>
+            <l>Which kindly doth you all intreate:</l>
+            <pb n="15" facs="tcp:59286:8"/>
+            <l> To put on all your ſpirituall armory complete,</l>
+            <l>That you Chriſts ſouldiers may be found,</l>
+            <l>To help me get the Biſhops Clergies kingdome downe</l>
+            <l>So when we have won the victory,</l>
+            <l>Chriſt will give the crowne of glory to you and me.</l>
+            <p>To triumph in glory here for a time, and in the world to come world without end. It is written 1 <hi>Cor.</hi> 6.2. <hi>Know you not that the Saints ſhall judge the world?</hi> I have already proved, that the Saints are al thoſe people that ſhalbe reconciled to Chriſt through belief and obedience of the truth. Wherefore I plainly and boldly ſay, that the Saints of God by the divine power of his Word ſhal proclaime a doome and judgment of everlaſting death and dam<g ref="char:EOLhyphen"/>nation againſt al thoſe people that ſhal wilfully riſe up in battel to fight againſt God and us, if they doe not repent and be reconciled unto God and us: ſo I make no doubt when we ſhal declare our proclamation which we ſhal receive from the divine power of God and his Word, it wilbe a greater feare and aſto<g ref="char:EOLhyphen"/>niſhment unto al thoſe people that ſhal riſe up againſt us, then if there were thouſands of thouſands of men in arms riſing up againſt them to deſtroy them, for the death of the body is as it were but for one houre, but alas, alas, the ſe<g ref="char:EOLhyphen"/>cond death which is the everlaſting death and torment of the ſoule, is to be la<g ref="char:EOLhyphen"/>mented, which al thoſe miniſters or any other falſe powers whatſoever they be ſhalbe ſure to receive, that wil not be reconciled to God and to his Saints: now I wil ſhew you how the Saints wilbe knowne by their colours, for they muſt be white and red, which is to be diſcerned with the eye of mans under<g ref="char:EOLhyphen"/>ſtanding: for the white colour is to ſhew mercy, love and peace to al thoſe that wilbe reconciled to God and to his Saints. But on the other ſide, the co<g ref="char:EOLhyphen"/>lour that is red, is to ſhew and ſignifie the fiery wrath of God to cut off and deſtroy al thoſe people that wil not be reconciled to God and his Saints: for Chriſt who is the perfect God, ſaith plainly, <hi>Luke</hi> 18.27. <hi>Thoſe mine enemies that will not that I ſhall raigne over them, bring them hither and ſlay them be<g ref="char:EOLhyphen"/>fore me.</hi> Hereby I plainly underſtand, that God now will by the divine pow<g ref="char:EOLhyphen"/>er of his word, which ſhall be executed by his Saints cut off, and roote out, by degrees from the face of the whole world, all thoſe people that wil not be re<g ref="char:EOLhyphen"/>conciled to Chriſt, and to the obedience of his glorious Goſpel. Wherefore I <hi>Iames Hunt,</hi> a Miniſter and Meſſenger of Ieſus Chriſt, do humbly beſeech al the Saints and ſervants of Chriſt, that you wil now with valour and courage hold forth your kingly and princely power, which we ſhal freely receive from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he glorious unity, Father, Son and Holy Ghoſt, that by the divine power of the Word, which is the powerful and two-edged ſword, we may all with boldneſſe and courage hold forth the ſword of juſtice both ſpiritual and tem<g ref="char:EOLhyphen"/>poral,
+<pb n="16" facs="tcp:59286:9"/> to cut down and root out al thoſe people that ſhal wilfully fight againſt God and us, if they do not repent and be reconciled: for Chriſt is called a lamb for his meekneſſe and humility<g ref="char:punc">▪</g> again, he is called a lion for his valour and cou<g ref="char:EOLhyphen"/>rage, to be revenged upon al his enemies that ſhal wilfully riſe up againſt him: for behold the Lion of the tribe of <hi>Iuda,</hi> the root of <hi>David,</hi> hath prevailed to open the book, and to looſe the ſeales thereof. I underſtand the opening of the look doth ſignifie the opening and unfolding of the myſteries and parables in the new Teſtament to the true meaning and ſignification to the praiſe and glo<g ref="char:EOLhyphen"/>ry of God, and the confounding of falſe doctrine and falſe worſhip that be<g ref="char:EOLhyphen"/>longeth to the divel, for we know that the Son of God is come, and hath gi<g ref="char:EOLhyphen"/>ven us an underſtanding to know him that is true, and I praiſe GOD, ſo am I in him that is true, even in his Sonne JESVS CHRIST, this is the true God, and eternal life, I in him, and he in me, by the divine pow<g ref="char:EOLhyphen"/>er of his Word which liveth in me: I honour and glorifie the name of God our glorious Father for ever, and Chriſt Jeſus our Mediator and Redeemer, with the Holy Ghoſt, who is our loving Comforter, three glorious perſons, yet but one God: for as they three cannot be divided one from the other: no more can the true Church be divided from them three, to whom be al praiſe, honour, glory, power, might, dominion and Majeſty, now and evermore, world without end. <hi>Amen.</hi>
+            </p>
+            <p>I acknowledge the Lords Prayer, and other godly prayers, that ſhal be a<g ref="char:EOLhyphen"/>greable to the true worſhip and Honour of God, and Davids Pſalms ſhal a<g ref="char:EOLhyphen"/>bide in the Church of Chriſt for ever, but for the old Law and Teſtament, I plainely prove, that is quite aboliſhed by the ſuffering of Chriſt on the Croſſe.</p>
+            <p>Againe, the reading of the Common-Service booke, doth bring in the old Iewiſh Religion againe, which was under the Law, for the reading of that book doth ſo blind the mindes of the people, that they do not diſcerne betwixt the Law and commandements, which is unto death and condemnation, from the Law and Commandements which is to everlaſting life and juſtification, for the miniſtration of the old Teſtament is the Law of Commandements contained in Ordinances, which Chriſt hath redeemed us from. But on the o<g ref="char:EOLhyphen"/>ther ſide, Chriſt is the Law and Commandements in the ſecond Covenant, I meane the New Teſtament, which is the book of life, the fulnes of him that filleth all in all.</p>
+            <p>Again, in the Common-Service-book there are very many falſe inventions which are contrary to the true worſhip and honour of God.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59286:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
